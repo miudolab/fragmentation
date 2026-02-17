@@ -1,0 +1,4 @@
+Log lists: 
+
+2025/02/16 - Please note the R-codes are designed to generate fragmented landscapes. If, however, the amount of habitat and the number of fragments is too high, the simulation will break down. A warning will inform that not all fragments reach designed fragment sizes. I suggest to simulate landscapes with < 40% of habitat amount. 
+2025/02/16 - All scripts are written in R and can be run independently in the R environment. Original codes were commented in Brazilian Portuguese, I added comments in English to help the reader.
