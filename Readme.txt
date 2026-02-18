@@ -6,10 +6,10 @@ R scripts were developed by Paulo R. Guimarães Jr.
 
 Files (please refer to the log list at the end of this document before downloading or using the files):
 
-figura_fragmentos.R
+figura_fragmentos_251201.R
 Script used to generate a figure showing the spatial distribution of habitat fragments across the landscape.
 
-figura_fragmentos_ensemble.R
+figura_fragmentos_ensemble_251201.R
 Script used to generate a dataset in which the mean shortest distance to the nearest fragment is calculated for all fragments in an L × L simulated landscape containing H habitat cells (n = 100 simulations).
 
 Fragmentacao.xlsx
